@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="org.apache.ivy:ivy:2.5.0" type="repository">
+    <properties maven-id="org.apache.ivy:ivy:2.5.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/ivy/ivy/2.5.0/ivy-2.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
